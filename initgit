@@ -1,0 +1,22 @@
+ubuntu16上安装git，并配置到VS Code
+
+1.安装git
+sudo apt-get update  
+sudo apt-get install git 
+
+2.配置全局
+git config --global user.name "Your Name"  
+git config --global user.email "youremail@domain.com"  
+
+3.在git上创建new repository
+复制git地址：https://github.com/persadewh/python.git
+
+4.提交代码
+切换到项目目录下
+git init
+git add xxx
+git commit -m "some messages"
+git remote add origin https://github.com/persadewh/python.git
+git push -u origin master
+
+5.提供git的帐号和密码
