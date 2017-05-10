@@ -1,0 +1,3 @@
+netstat -ap | grep 9999
+
+kill -9 xxxx
