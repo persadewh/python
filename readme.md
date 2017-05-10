@@ -50,3 +50,20 @@ PYTHONHOME
 同行可以是使用分号分开
 
 ###保留字
+
+`and exec not assert finally or break for pass class from print continue global raise def if return del import try elif in while else is with except lambda yield
+`
+
+###多行语句
+
+使用斜杠（\）将一行分为多行显示
+
+`total = one + \
+
+        two + \
+
+        three`
+
+
+
+
