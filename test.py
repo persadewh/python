@@ -1,4 +1,3 @@
-i = 10
-i = 5
-if i == 5:
-    print('Hello World')
+#!/usr/local/bin/python3
+# -*- coding: utf-8 -*-
+print('您好')
